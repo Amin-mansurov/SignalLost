@@ -1,4 +1,4 @@
-# PersonalJournal — Sci-Fi Terminal Journal Game
+# Personal Journal SignaLlost — Sci-Fi Terminal Journal Game
 
 A story-driven terminal game written in Python where you play as the last active archivist aboard the deep-space vessel **Auriga**.
 Manage your journal, uncover the mystery behind the signal, and decide the fate of humanity.
